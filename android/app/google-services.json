@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "656051521591",
+    "project_id": "orbital-spa",
+    "storage_bucket": "orbital-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656051521591:android:cf35e54be004f7d7e557b2",
+        "android_client_info": {
+          "package_name": "com.orbitalspa.orbital_spa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656051521591-irlbqk7g546fjo137sik77p6avqin36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656051521591-irlbqk7g546fjo137sik77p6avqin36r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
