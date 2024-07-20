@@ -64,9 +64,17 @@ As a user who values convenience, I want to utilize voice commands to accomplish
 1) Milestone 1 - 
 
 ![photo_2023-06-27 02 19 46](https://github.com/wjayee/orbital_spa/assets/65785157/9b74c30c-3d2a-409f-9829-a763c9915b85)
-![screenshot](https://github.com/Nimastic/NUS-Orbital-SPA-Gemini-Intermediate/tree/main/img#:~:text=..-,Screenshots%201.png,-updates)
 
 // Screenshot of UI //
+
+### Screenshot 1
+![Screenshot 1](https://github.com/Nimastic/NUS-Orbital-SPA-Gemini-Intermediate/blob/main/img/Screenshots%201.png)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/Nimastic/NUS-Orbital-SPA-Gemini-Intermediate/blob/main/img/Screenshots%202.png)
+
+### Wireframe mockup
+![Wireframe mockup](https://github.com/Nimastic/NUS-Orbital-SPA-Gemini-Intermediate/blob/main/img/Wireframe%20mockup.png)
 
 Technical Proof Of Concept (Frontend + Backend integrated product)
 
